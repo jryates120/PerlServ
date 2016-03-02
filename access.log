@@ -1,0 +1,8 @@
+perlServ 0.3r2 listening on 10.8.8.45:8080, awaiting connections...
+
+Host: localhost [127.0.0.1] - Request: GET / HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; rv:1.9.2.17) Gecko/20110422 Ubuntu/9.10 
+Host: localhost [127.0.0.1] - Request: GET /favicon.ico HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; rv:1.9.2.17) Gecko/20110422 Ubuntu/9.10 
+Host: localhost [127.0.0.1] - Request: GET /favicon.ico HTTP/1.1
+User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; rv:1.9.2.17) Gecko/20110422 Ubuntu/9.10 
